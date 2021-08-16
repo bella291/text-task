@@ -1,15 +1,13 @@
 # Lesson 2 Task 3
 
-## Cломалась кнопка "Подписаться" возле строки ввода email
-#
+## Не работает форма отправки email
 
-**commit 8cc958dee52601bbbfb637534c5e08c45e5de663**
+commit d9652d35bb46f99813a4a70ed8d1ef678716597c
 
-**Author: Masha** <masha@localhost>
+Author: Oleg <oleg@localhost>
 
-Date:   Fri Nov 9 02:19:15 2018 +0300
+Date:   Fri Nov 9 02:28:03 2018 +0300
 
-*Подписка на новости - обработка событий ввода*
-
+Возврат к предыдущей версии подписки новостей. Проверка через regexp
 
 
